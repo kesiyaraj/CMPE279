@@ -1,8 +1,8 @@
 TEAM MEMBERS:
 
-KESIYA RAJ
+Kesiya Raj (SJSU ID: 015337387)
 
-ISHA RAO
+Isha Rao 
 
 
 
