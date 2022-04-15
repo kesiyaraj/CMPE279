@@ -1,4 +1,7 @@
-CMP
-test
+To run the program commands are as follows:
 
-test 1
+make
+
+sudo ./server
+
+./client
