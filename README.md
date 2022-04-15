@@ -1,4 +1,10 @@
-To run the program commands are as follows:
+TEAM MEMBERS:
+KESIYA RAJ
+ISHA RAO
+
+
+
+Commands to run the program:
 
 make
 
